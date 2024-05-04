@@ -30,13 +30,13 @@
     <a href="mailto:jubayer0267@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/jubayercoders" target="_blank">
+  <a href="https://www.facebook.com/devjubayer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/JubayerCoders/" target="_blank">
+  <a href="https://www.instagram.com/devjubayer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/jubayercoders" target="_blank">
+  <a href="https://t.me/devjubayer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=8801826994391&text&type=phone_number&app_absent=0" target="_blank">
